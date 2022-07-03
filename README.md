@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramarajusairajesh
 - 👀 I’m interested in ...Programming(Python,Java and C and IT)
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... JavaScript,Python, Networking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail me at sairajeshramraju@gmail.com
 
