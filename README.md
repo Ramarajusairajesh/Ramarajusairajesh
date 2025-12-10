@@ -8,8 +8,9 @@ Since then, I've grown into someone who loves getting my hands dirty with the cr
 
 As you've no doubt gleaned from my speech, I hold a deep love for the old ways – the language of dragons and the myths that shaped worlds. I'm a fantasy enthusiast, captivated by magic, forgotten realms, and epic sagas that defy the mundane.
 
-So whether you come seeking insights, conversation, or just curiosity – you are most welcome in my corner of the sairajeshramraju@gmail.com
+So whether you come seeking insights, conversation, or just curiosity – you are most welcome in my corner of the internet. If you want to talk send me a mail at sairajeshramraju@gmail.com
 
+I am open to jobs.
 <!---
 Ramarajusairajesh/Ramarajusairajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
