@@ -10,7 +10,7 @@ As you've no doubt gleaned from my speech, I hold a deep love for the old ways �
 
 So whether you come seeking insights, conversation, or just curiosity – you are most welcome in my corner of the internet. If you want to talk send me a mail at sairajeshramraju@gmail.com
 
-I am open to jobs.
+I am open to jobs preferably remote. and want to work at kernel level and network programming in distributed systems.
 <!---
 Ramarajusairajesh/Ramarajusairajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
